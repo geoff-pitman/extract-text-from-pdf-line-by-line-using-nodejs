@@ -4,7 +4,7 @@
   "description": "extract text line by line from pdf",
   "main": "index.js",
   "dependencies": {
-    "pdf-text-extract": "1.4.1"
+    "pdf-text-extract": "~1.4.1"
   },
   "devDependencies": {},
   "scripts": {
