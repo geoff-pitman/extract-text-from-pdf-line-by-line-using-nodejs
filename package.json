@@ -1,0 +1,19 @@
+{
+  "name": "extract-text-from-pdf-line-by-line-using-nodejs",
+  "version": "1.0.0",
+  "description": "extract text line by line from pdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geoff-pitman/extract-text-from-pdf-line-by-line-using-nodejs.git"
+  },
+  "author": "geoff pitman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geoff-pitman/extract-text-from-pdf-line-by-line-using-nodejs/issues"
+  },
+  "homepage": "https://github.com/geoff-pitman/extract-text-from-pdf-line-by-line-using-nodejs#readme"
+}
